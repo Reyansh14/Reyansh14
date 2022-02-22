@@ -13,8 +13,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpa
 - Business Intelligence Analyst co-op at Mother Parkers
 - Participated at Hack the North 2020++ and 2021 and collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reyansh14&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <!--
 GITHUB STREAK SNIPPET:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reyansh14&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
