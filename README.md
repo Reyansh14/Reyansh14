@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Rey!
 I am a Computer Science student at the University of Waterloo 🎓. 
-My interests lie in Full-Stack Development, Artifical Intelligence, Mobile Development, and Game Development. 
+My interests lie in Full-Stack Development, Artifical Intelligence & Mobile Development. 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I'm always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
 
 ### ⚡ Technical Skills
