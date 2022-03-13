@@ -4,9 +4,16 @@ My interests lie in Full-Stack Development, Artifical Intelligence & Mobile Deve
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I'm always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
 
 ### 📫 Connect with me:
-<a href="https://www.linkedin.com/in/reyanshpatange/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/reyanshpatange/" rel="nofollow noreferrer">
+        <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="mailto: reyansh.patange@gmail.com"> 📧 Email </a>
+  </li>
+</ul>
 
 ### ⚡ Technical Skills
 - ✅ **Languages**: Python, JavaScript, TypeScript, C++, C, C#, Java, HTML, CSS, Bash, SQL
