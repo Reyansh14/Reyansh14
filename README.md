@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Rey!
-I am a Computer Science student at the University of Waterloo 🎓.
+I'm a Computer Science student at the University of Waterloo 🎓.
 My interests lie in Backend Development & Artifical Intelligence. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I'm always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I am always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
 
 ### 📫 Connect with me:
 <ul>
