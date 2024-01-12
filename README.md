@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Rey!
 I am a Computer Science student at the University of Waterloo 🎓.
-My interests lie in Full-Stack Development, Artifical Intelligence & Mobile Development. 
+My interests lie in Backend Development & Artifical Intelligence. 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I'm always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
 
 ### 📫 Connect with me:
@@ -21,8 +21,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpa
 - 🛠️ **Developer Tools**: Git/GitHub, VS Code, Jira, Confluence, Postman, SSMS, PowerBI, Object Oriented Programming
 
 ### 🚀 Experience
-- Software Developer intern at RBC 
-- Business Intelligence Analyst co-op at Mother Parkers
+- Software Developer Co-op at theScore
+- Software Engineer Intern at Kodiak Robotics 
+- Software Engineer Intern at Ford Pro
+- Software Developer Co-op at RBC 
+- Business Intelligence Analyst Co-op at Mother Parkers
 - Participated at Hack the North 2020++ and 2021 and collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
 
 <!--
