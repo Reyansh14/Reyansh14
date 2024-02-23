@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Rey!
 I'm a Computer Science student at the University of Waterloo 🎓.
-My interests lie in Backend Development & Artifical Intelligence. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/)! I am always open for a chat 💬 about anything - from my projects and experience, to anything in the tech world.
+My interests lie in Backend Development & AI/ML. 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/), I am always open for a chat 💬 about anything!
 
 ### 📫 Connect with me:
 <ul>
@@ -15,11 +15,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpa
   </li>
 </ul>
 
-### ⚡ Technical Skills
-- ✅ **Languages**: Python, JavaScript, TypeScript, C++, C, C#, Java, HTML, CSS, Bash, SQL
-- 🔥 **Technologies/Frameworks**: React, Node.js, Express, MongoDB, Redux, Material-UI, Pandas, Plotly, jQuery, AJAX
-- 🛠️ **Developer Tools**: Git/GitHub, VS Code, Jira, Confluence, Postman, SSMS, PowerBI, Object Oriented Programming
-
 ### 🚀 Experience
 - Software Developer Co-op at theScore
 - Software Engineer Intern at Kodiak Robotics 
@@ -27,6 +22,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpa
 - Software Developer Co-op at RBC 
 - Business Intelligence Analyst Co-op at Mother Parkers
 - Participated at Hack the North 2020++ and 2021 and collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
+
+<!--
+### ⚡ Technical Skills
+- ✅ **Languages**: Python, JavaScript, TypeScript, C++, C, C#, Java, HTML, CSS, Bash, SQL
+- 🔥 **Technologies/Frameworks**: React, Node.js, Express, MongoDB, Redux, Material-UI, Pandas, Plotly, jQuery, AJAX
+- 🛠️ **Developer Tools**: Git/GitHub, VS Code, Jira, Confluence, Postman, SSMS, PowerBI, Object Oriented Programming
 
 <!--
 GITHUB STREAK SNIPPET:
