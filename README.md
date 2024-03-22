@@ -18,12 +18,12 @@
 -->
 
 ### 🚀 Experience
-- Software Developer Co-op at [theScore](https://www.thescore.com/) - Backend 🎰 - Casino Engagement Team ([theScoreBET](https://about.thescore.bet/) / [ESPNBet](https://about.espnbet.com/))
-- Software Engineer Intern at [Kodiak Robotics](https://kodiak.ai/) - Full Stack / Backend 🚛 - Offboard Infra Team
-- Software Engineer Intern at [Ford Pro](https://www.fordpro.ca/en-ca/) - Backend / DevOps 🚘 - Vehicle Fleet Management Team
-- Software Developer Co-op at [RBC](https://www.rbc.com/canada.html) - Full Stack 🏦 - Armada Team (IaaS)
-- Business Intelligence Analyst Intern at [Mother Parkers](https://mother-parkers.com/) - Data ☕ - Business Intelligence Team
-- Participated at [Hack the North](https://hackthenorth.com/) 2020++ and 2021 - 🧑🏽‍💻 collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
+- 🎰 Software Developer Co-op at [theScore](https://www.thescore.com/) - Backend - Casino Engagement Team ([theScoreBET](https://about.thescore.bet/) / [ESPNBet](https://about.espnbet.com/))
+- 🚛 Software Engineer Intern at [Kodiak Robotics](https://kodiak.ai/) - Full Stack / Backend - Offboard Infra Team
+- 🚘 Software Engineer Intern at [Ford Pro](https://www.fordpro.ca/en-ca/) - Backend / DevOps - Vehicle Fleet Management Team
+- 🏦 Software Developer Co-op at [RBC](https://www.rbc.com/canada.html) - Full Stack - Armada Team (IaaS)
+- ☕ Business Intelligence Analyst Intern at [Mother Parkers](https://mother-parkers.com/) - Data - Business Intelligence Team
+- 🧑🏽‍💻 Participated at [Hack the North](https://hackthenorth.com/) 2020++ and 2021 - collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
 
 <!--
 ### ⚡ Technical Skills
