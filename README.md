@@ -1,8 +1,9 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Rey!
-I'm a Computer Science student at the University of Waterloo 🎓.
-My interests lie in Backend Development & AI/ML. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/), I am always open for a chat 💬 about anything!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey I'm Rey!
+- Computer Science student at the University of Waterloo 🎓
+- Interested in Backend Development & AI/ML
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/) - always open for a chat 💬 about anything!
 
+<!--
 ### 📫 Connect with me:
 <ul>
   <li>
@@ -14,14 +15,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpa
     <a href="mailto: reyansh.patange@gmail.com"> 📧 Email </a>
   </li>
 </ul>
+-->
 
 ### 🚀 Experience
-- Software Developer Co-op at theScore
-- Software Engineer Intern at Kodiak Robotics 
-- Software Engineer Intern at Ford Pro
-- Software Developer Co-op at RBC 
-- Business Intelligence Analyst Co-op at Mother Parkers
-- Participated at Hack the North 2020++ and 2021 and collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
+- Software Developer Co-op at [theScore](https://www.thescore.com/) - Backend 🎰 - Casino Engagement Team ([theScoreBET](https://about.thescore.bet/) / [ESPNBet](https://about.espnbet.com/))
+- Software Engineer Intern at [Kodiak Robotics](https://kodiak.ai/) - Full Stack / Backend 🚛 - Offboard Infra Team
+- Software Engineer Intern at [Ford Pro](https://www.fordpro.ca/en-ca/) - Backend / DevOps 🚘 - Vehicle Fleet Management Team
+- Software Developer Co-op at [RBC](https://www.rbc.com/canada.html) - Full Stack 🏦 - Armada Team (IaaS)
+- Business Intelligence Analyst Intern at [Mother Parkers](https://mother-parkers.com/) - Data ☕ - Business Intelligence Team
+- Participated at [Hack the North](https://hackthenorth.com/) 2020++ and 2021 - 🧑🏽‍💻 collaborated with friends to create [Interque](https://github.com/teaminterque/project-interque) and [HouseKeepr](https://github.com/pratikksolanki/HouseKeepr)
 
 <!--
 ### ⚡ Technical Skills
