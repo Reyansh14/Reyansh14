@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey I'm Rey!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  Hey I'm Rey
 - Computer Science student at the University of Waterloo 🎓
 - Interested in Backend Development & AI/ML
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/) - always open for a chat 💬
