@@ -18,6 +18,7 @@
 -->
 
 ### 🚀 Experience
+- ₿ Software Engineer Intern at [Coinbase](https://www.coinbase.com/) - Backend - Staking Core Team 
 - 🎰 Software Developer Co-op at [theScore](https://www.thescore.com/) - Backend - Casino Engagement Team ([theScoreBET](https://about.thescore.bet/) / [ESPNBet](https://about.espnbet.com/))
 - 🚛 Software Engineer Intern at [Kodiak Robotics](https://kodiak.ai/) - Full Stack / Backend - Offboard Infra Team
 - 🚘 Software Engineer Intern at [Ford Pro](https://www.fordpro.ca/en-ca/) - Backend / DevOps - Vehicle Fleet Management Team
