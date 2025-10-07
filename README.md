@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  Hey, I'm Rey
 - Software Engineer at [Persona](https://withpersona.com/)
 - Computer Science graduate from the University of Waterloo 🎓
-- Interested in Backend Development, Infra, and AI/ML
+- Interested in Backend/Full-Stack Development, Infra, and AI/ML
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/reyanshpatange/) - always open for a chat 💬 
 
 <!--
